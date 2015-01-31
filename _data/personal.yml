@@ -35,11 +35,11 @@ profiles:
 intro:
   title: Hello!
   body: >
-    I'm a chemistry researcher at 
+    I'm a chemistry graduate student at 
     [the University of Hong Kong](http://www.chemistry.hku.hk/index_home.php).
     My research includes experimental and computational studies of 
     luminescent transition metal complexes.
-    My projects are aimed at measuring the photochemical properties of 
+    My projects are aimed at characterizing the photochemical properties of 
     gold and platinum inorganic complexes.
-    Current, I'm excited about applying techniques of molecular dynamics on
+    Currently, I'm excited about applying computational techniques of molecular dynamics on
     the calculations of the excited states. 
