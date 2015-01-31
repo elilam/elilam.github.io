@@ -1,0 +1,45 @@
+name: Elizabeth Lam
+
+label: Computational Chemistry Graduate Student
+
+picture: /img/elilam_profile.png
+
+email: elishlam@graduate.hku.hk
+
+phone: (+852) 6909 5438
+
+department: Chemistry
+
+institution: HKU
+
+mailing_address: >
+  G01, Chong Yuet Ming Chemistry Building
+  The University of Hong Kong
+  Pokfulam Road
+  Hong Kong
+
+profiles:
+  - 
+    network: Google Scholar
+    username:
+    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+  -
+    network: LinkedIn
+    username:
+    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+  -
+    network: Twitter
+    username: ianli
+    url: https://twitter.com/ianli/
+
+intro:
+  title: Hello!
+  body: >
+    I'm a chemistry researcher at 
+    [the University of Hong Kong](http://www.chemistry.hku.hk/index_home.php).
+    My research includes experimental and computational studies of 
+    luminescent transition metal complexes.
+    My projects are aimed at measuring the photochemical properties of 
+    gold and platinum inorganic complexes.
+    Current, I'm excited about applying techniques of molecular dynamics on
+    the calculations of the excited states. 
