@@ -13,7 +13,7 @@ department: Department of Chemistry
 institution: The University of Hong Kong
 
 mailing_address: >
-  G01, Chong Yuet Ming Chemistry Building
+  Room 426, Hui Oi Chow Building
   The University of Hong Kong
   Pokfulam Road
   Hong Kong
@@ -27,19 +27,15 @@ profiles:
     network: LinkedIn
     username:
     url: https://www.linkedin.com/pub/ian-li/1/681/8b0
-  -
-    network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
 
 intro:
   title: Hello!
   body: >
-    I'm a chemistry graduate student at 
-    [the University of Hong Kong](http://www.chemistry.hku.hk/index_home.php).
+    I'm a chemistry graduate student at the 
+    [Chemistry Department in The University of Hong Kong](http://www.chemistry.hku.hk/index_home.php).
     My research includes experimental and computational studies of 
     luminescent transition metal complexes.
-    My projects are aimed at characterizing the photochemical properties of 
+    My projects are aimed at characterizing the photophysical properties of 
     gold and platinum inorganic complexes.
     Currently, I'm excited about applying computational techniques of molecular dynamics on
     the calculations of the excited states. 
