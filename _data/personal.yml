@@ -22,13 +22,9 @@ mailing_address: >
 
 profiles:
   - 
-    network: Google Scholar
-    username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
-  -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/profile/view?id=392347538&trk=nav_responsive_tab_profile_pic
 
 intro:
   title: Hello!
