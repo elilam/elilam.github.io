@@ -34,10 +34,15 @@ intro:
   title: Hello!
   body: >
     I'm a chemistry graduate student at the 
-    [Chemistry Department in The University of Hong Kong](http://www.chemistry.hku.hk/index_home.php).
-    My research includes experimental and computational studies of 
-    luminescent transition metal complexes.
-    My projects are aimed at characterizing the photophysical properties of 
-    gold and platinum inorganic complexes.
-    Currently, I'm excited about applying computational techniques of molecular dynamics on
-    the calculations of the excited states. 
+    [Chemistry Department in The University of Hong Kong](http://www.chemistry.hku.hk/index_home.php)
+    in the field of computational chemistry / inorganic chemistry. 
+    In particular, most of my research work has been focusing on the computational study of the electronic 
+    structure and excited state properties of metal complexes with some of them as potential organogelators 
+    and emitters in organic light-emitting diodes. \n
+    \n
+    I first kicked off with experimental synthetic studies of luminescent complexes. 
+    During the synthesis and measurements experiments, I have noticed the different emission
+    behaviors of my synthesized metal complexes. My curiosity has driven me to consult computational 
+    experts internally and externally and investigate on the photophysical behaviors and processes. 
+    These experiences have gradually led me to computational study of photophysical processes of the 
+    complexes which has further inspired me to the road in computational chemistry.
