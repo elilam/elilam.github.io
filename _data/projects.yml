@@ -1,6 +1,18 @@
 -
-  name: 'Radiative and Non-radiative decay of square planar transition metal complexes'
+  name: 'Nature and Energy of Excited States'
   description: >
-    My Ph.D. thesis explores the use of computational analysis with DFT and TDDFT to understand the structure-property relationships of luminescent square planar transtition metal complexes with tridentate ligands.
+    The first part of my research study explores the use of DFT and TDDFT to examine the excited state properties of luminescent square planar transtition metal complexes with tridentate ligands.
+  image: /img/states.jpg
+  url:
+-
+  name: 'Radiative and Non-radiative Decay of Square Planar Transition Metal Complexes'
+  description: >
+    The second part of my research work aims to understand the structure-property relationships in terms of radiative and non-radiative decay processes. 
   image: /img/Energy_profile.png
   url: 
+-
+  name: 'Design, Synthesis, Photophysical Measurements and Device Fabrication of Luminescent Platinum(II) Complexes'
+  description: >
+    The third part of my research project focuses on the experimental studies of the luminescent Platinum(II) complexes with cyclometalated ligands. With the highly luminescent properties, these complexes have then been ultilized in the fabrication of organic light-emitting diodes (OLEDs) with good performance. Moreover, the emissive color can be tuned with proper modification of the coordinated ligands.
+  image: /img/OLED_film.jpg
+  url:
