@@ -2,17 +2,17 @@
   name: 'Nature and Energy of Excited States of Luminescent Transition Metal Complexes'
   description: >
     The first part of my research aims to explore the excited state properties of luminescent transtition metal complexes, which plays an important role in the development of new technologies. Metal complexes in excited state behave differently from ground states. However, the excited state information, such as structural parameters of molecules at the excited state, are very difficult obtained from experimental observations. Theoretical tools are therefore essential to the design molecules with specific excited state properties. Whereas Density Functional Theory (DFT) is widely applied the modelling of ground-state properties of molecules; Time-Dependent Density Functional Theory (TDDFT) has been considered as a popular tool for the computation of electronically excited states of molecules. In my studies, TDDFT has been employed to investigate the photophysical properties of luminescent square planar platinum(II) and gold(III) complexes in order to have better insights for experimental design. 
-  image: /img/states.jpg
+  image: ./img/states.jpg
   url:
 -
   name: 'Radiative and Non-radiative Decay of Square Planar Transition Metal Complexes'
   description: >
     The second part of my research aims to understand the structure-property relationships of the luminescent transition metal complexes. In view of the dramatic spectroscopic differences of the complexes with variation of coordinating ligands, I hope to provide an in-depth understanding of the nature of the emissive origin as well as the radiative and nonradiative processes. In particular, the factors governing the ordering of the triplet excited states and radiative decay rate constants of the emissive state are examined. The potential energy profiles for the deactivation process from the emissive state via triplet metal-centered states are explored.
-  image: /img/Energy_profile.png
+  image: ./img/Energy_profile.png
   url: 
 -
   name: 'Design, Synthesis, Photophysical Measurements and Device Fabrication of Luminescent Platinum(II) Complexes'
   description: >
     The third part of my research project focuses on the experimental studies of the luminescent Platinum(II) complexes with cyclometalated ligands. With the highly luminescent properties, these complexes have then been ultilized in the fabrication of organic light-emitting diodes (OLEDs) with good performance. Moreover, the emissive color can be tuned with proper modification of the coordinated ligands.
-  image: /img/OLED_film.jpg
+  image: ./img/OLED_film.jpg
   url:
