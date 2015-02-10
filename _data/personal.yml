@@ -25,6 +25,10 @@ profiles:
     network: LinkedIn
     username:
     url: https://www.linkedin.com/profile/view?id=392347538&trk=nav_responsive_tab_profile_pic
+  -
+    network: Blog
+    username:
+    url: http://funlife007.blogspot.hk/
 
 intro:
   title: Welcome!
