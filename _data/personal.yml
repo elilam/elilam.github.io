@@ -1,24 +1,13 @@
 name: Elizabeth Suk-Hang Lam
 
-label: Chemistry Graduate Student 
+label: Research and Development Chemist 
 
-interests: Inorganic / Computational Chemistry, Materials Science
+fields: Analytical, Inorganic / Computational Chemistry, Materials Science, Physics
 
 picture: ./img/elilam_profile.png
 
 email: elishlam@graduate.hku.hk
 
-phone: (+852) 6909 5438
-
-department: Department of Chemistry
-
-institution: The University of Hong Kong
-
-mailing_address: >
-  Room 426, Hui Oi Chow Building \n
-  The University of Hong Kong \n
-  Pokfulam Road \n
-  Hong Kong
 
 profiles:
   - 
@@ -26,20 +15,14 @@ profiles:
     username:
     url: https://www.linkedin.com/profile/view?id=392347538&trk=nav_responsive_tab_profile_pic
   -
-    network: Blog
-    username:
-    url: http://funlife007.blogspot.hk/
 
 intro:
   title: Welcome!
   body: >
-    I'm a chemistry graduate student at the 
-    [Chemistry Department in The University of Hong Kong](http://www.chemistry.hku.hk/index_home.php)
-    in the field of computational chemistry / inorganic chemistry. 
-    In particular, most of my research work has been focusing on the computational study of the electronic 
-    structure and excited state properties of metal complexes with some of them as potential organogelators 
-    and emitters in organic light-emitting diodes. <br> <br>
-  
+    I'm a reserach and development chemist in a private testing laboratory.
+    I'm now explorating new methods for testing in various fields such as pesticides in food and
+    pollutants in air or exahust.
+    
     Background <br>
     <br>
     Prior to the entrance of my Bachelor of Science degree, I was fortunate enough to have been involved in 
@@ -59,7 +42,10 @@ intro:
     These experiences have gradually led me to computational study of photophysical processes of the 
     complexes which has further inspired me to the road in computational chemistry.<br>
     <br>
-    I wish to employ my multidisciplinary mentality and strong analytical ability from physics,
+    I enjoy learning new things and accepting new challenges. This is this pursue, I am fortunate enough to 
+    enter an another chapter, analytical chemistry. I'm in charge for developing new methods for testing in various 
+    fields such as pesticides in food and pollutants in air or exahust. 
+    I would like to employ my multidisciplinary mentality and strong analytical ability from physics,
     chemistry and engineering trainings to search for new insights and solutions to real-life issues 
     and problems in various areas including scientific and non-scientific fields.
 
