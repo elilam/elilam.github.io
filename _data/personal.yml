@@ -6,14 +6,6 @@ picture: ./img/profile.jpg
 
 email: elishlam@graduate.hku.hk
 
-
-profiles:
-  - 
-    network: LinkedIn
-    username:
-    url: https://www.linkedin.com/profile/view?id=392347538&trk=nav_responsive_tab_profile_pic
-  -
-
 intro:
   title: About Elizabeth
   body: ><br><br><br><br><br>
@@ -26,3 +18,11 @@ intro:
     <br><br>
     When not reading and writing about science, Elizabeth would put on her sports shoes for some walks in nature. 
     She is always attracted by the blue sky and natural landscapes that push her to go out and explore.
+
+profiles:
+  - 
+    network: LinkedIn
+    username:
+    url: https://www.linkedin.com/profile/view?id=392347538&trk=nav_responsive_tab_profile_pic
+  -
+
